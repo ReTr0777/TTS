@@ -1,0 +1,26 @@
+{
+  "hotkey": "ctrl+space",
+  "routing_mode": "discord_only",
+  "discord_output_device": "",
+  "virtual_mic_device": "",
+  "monitor_device": "",
+  "auto_hide_on_speak": true,
+  "play_monitor": true,
+  "tts_engine": "edge-tts",
+  "voice": "en-US-ChristopherNeural",
+  "rate": "+0%",
+  "pitch": "+0Hz",
+  "volume_mic": 1.0,
+  "volume_monitor": 0.8,
+  "mic_passthrough_enabled": false,
+  "physical_mic_device": "",
+  "history": [],
+  "quick_phrases": [
+    "Hello everyone!",
+    "Be right back, one minute.",
+    "Good game!",
+    "Can you hear me alright?",
+    "Yes, absolutely.",
+    "No, thank you."
+  ]
+}
